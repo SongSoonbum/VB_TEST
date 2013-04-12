@@ -7,6 +7,6 @@
     End Sub
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
-        Label1.Text = TextBox1.Text + " さん、おはようございます。GITのてすとです。"
+        Label1.Text = TextBox1.Text + " さん、おはようございます。GITのてすとです。いぇ～～～～い"
     End Sub
 End Class
